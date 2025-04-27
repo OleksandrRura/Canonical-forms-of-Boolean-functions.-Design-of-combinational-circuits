@@ -74,5 +74,5 @@ y^{1}_{ДДНФ} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cu
 $$
 
 $$
-y_ДДНФ1^{1} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
+y^{1}_{ДДНФ} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
 $$
