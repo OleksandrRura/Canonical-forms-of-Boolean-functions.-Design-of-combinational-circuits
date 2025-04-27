@@ -100,4 +100,4 @@ $$
 
 ### Рис. 4. Таблиця істинності комбінаційної схеми для ДКНФ
 
-![Рис. 4.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DCNF.png)
+![Рис. 4.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DCNF.jpg)
