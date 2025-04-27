@@ -70,7 +70,7 @@ Fₓₓₙₙₓ = ∨ᵢ (Cᵢ αᵢ),   (2.1)
 ## Побудова комбінаційної схеми ДДНФ
 
 $$
-y_ДДНФ^{1} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cup \overline{x_4} \, \overline{x_3} \, x_2 \, x_1 \cup \overline{x_4} \, x_3 \, x_2 \, \overline{x_1} \cup \overline{x_4} \, x_3 \, x_2 \, x_1 \cup x_4 \, x_3 \, \overline{x_2} \, \overline{x_1} \cup x_4 \, x_3 \, x_2 \, x_1
+y^{1}_{ДДНФ} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cup \overline{x_4} \, \overline{x_3} \, x_2 \, x_1 \cup \overline{x_4} \, x_3 \, x_2 \, \overline{x_1} \cup \overline{x_4} \, x_3 \, x_2 \, x_1 \cup x_4 \, x_3 \, \overline{x_2} \, \overline{x_1} \cup x_4 \, x_3 \, x_2 \, x_1
 $$
 
 $$
