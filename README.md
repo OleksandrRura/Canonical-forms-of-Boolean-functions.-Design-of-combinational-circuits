@@ -69,8 +69,9 @@ Fₓₓₙₙₓ = ∨ᵢ (Cᵢ αᵢ),   (2.1)
 
 ## Побудова комбінаційної схеми ДДНФ
 
+$$
 y_1^{ДДНФ} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cup \overline{x_4} \, \overline{x_3} \, x_2 \, x_1 \cup \overline{x_4} \, x_3 \, x_2 \, \overline{x_1} \cup \overline{x_4} \, x_3 \, x_2 \, x_1 \cup x_4 \, x_3 \, \overline{x_2} \, \overline{x_1} \cup x_4 \, x_3 \, x_2 \, x_1
-
+$$
 
 $$
 y_1^{ДДНФ} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
