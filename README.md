@@ -73,6 +73,8 @@ Fₓₓₙₙₓ = ∨ᵢ (Cᵢ αᵢ),   (2.1)
 
 Вираз для \( y_1^{ДДНФ} \):
 
+Вираз для \( y_1^{ДДНФ} \):
+
 \[
 y_1^{ДДНФ} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cup \overline{x_4} \, \overline{x_3} \, x_2 \, x_1 \cup \overline{x_4} \, x_3 \, x_2 \, \overline{x_1} \cup \overline{x_4} \, x_3 \, x_2 \, x_1 \cup x_4 \, x_3 \, \overline{x_2} \, \overline{x_1} \cup x_4 \, x_3 \, x_2 \, x_1
 \]
