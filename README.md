@@ -85,3 +85,19 @@ $$
 ![Рис. 2.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DDNF.png)
 
 
+## Побудова комбінаційної схеми ДКНФ
+
+$$
+y_{1ДДНФ} = \overline{x_4} \, \overline{x_3} \, x_2 \, \overline{x_1} \cup \overline{x_4} \, \overline{x_3} \, x_2 \, x_1 \cup \overline{x_4} \, x_3 \, x_2 \, \overline{x_1} \cup \overline{x_4} \, x_3 \, x_2 \, x_1 \cup x_4 \, x_3 \, \overline{x_2} \, \overline{x_1} \cup x_4 \, x_3 \, x_2 \, x_1
+$$
+
+$$
+y_{1ДДНФ} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
+$$
+
+### Рис. 3. Комбінаційна схема для ДКНФ
+![Рис. 3. Комбінаційна схема для ДКНФ](./combinational-scheme-for-DCNF.png)
+
+### Рис. 4. Таблиця істинності комбінаційної схеми для ДКНФ
+
+![Рис. 4.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DCNF.png)
