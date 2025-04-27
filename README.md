@@ -77,11 +77,11 @@ $$
 y_{1ДДНФ} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
 $$
 
-
-![Рис. 1. Комбінаційна схема для ДКНФ](./combinational-scheme-for-DCNF.png)
 ### Рис. 1. Комбінаційна схема для ДДНФ
+![Рис. 1. Комбінаційна схема для ДКНФ](./combinational-scheme-for-DDNF.jpg
 
+### Рис. 2. Таблиця істинності комбінаційної схеми для ДДНФ
 
-![Рис. 2.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DCNF.jpg)
+![Рис. 2.Таблиця істинності комбінаційної схеми для ДКНФ](./truth-table-of-a-combinational-circuit-for-DDNF.png)
 
 
