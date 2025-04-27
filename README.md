@@ -77,4 +77,4 @@ $$
 y_{1ДДНФ} = 2 \cup 3 \cup 6 \cup 7 \cup 12 \cup 15
 $$
 
-![Example Image](./combinational scheme for DCNF.png)
+![Example Image](./combinational-scheme-for-DCNF.png)
