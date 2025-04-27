@@ -1,0 +1,1 @@
+# Canonical-forms-of-Boolean-functions.-Design-of-combinational-circuits
